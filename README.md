@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Triplenkay76
-- 👀 I’m interested in cybersecurity
-- 📫 How to reach me nicobis76@outlook.com
+# Nicholas Bediako Poku
 
-<!---
-Triplenkay76/Triplenkay76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**BI & Data Analytics Professional** | Kumasi, Ghana
+
+I build Power BI dashboards, Power Platform solutions, and analytics systems that help universities and organizations make data-driven decisions.
+
+**What I work with:** Power BI, DAX, SQL Server, Power Apps, Power Automate, SharePoint, Python
+
+📫 nbediakopoku@outlook.com
+🔗 [Portfolio](https://triplenkay76.github.io/my_portfolio/)
