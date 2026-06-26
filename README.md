@@ -7,4 +7,4 @@ I build Power BI dashboards, Power Platform solutions, and analytics systems tha
 **What I work with:** Power BI, DAX, SQL Server, Power Apps, Power Automate, SharePoint, Python
 
 📫 nbediakopoku@outlook.com
-🔗 [Portfolio](https://triplenkay76.github.io/my_portfolio/)
+🔗 [Portfolio](https://nbediakopoku.github.io/my_portfolio/)
